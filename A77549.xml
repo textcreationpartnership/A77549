@@ -1,0 +1,326 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A certaine warning from a naked heart before the Lord, to the earthly, wise, great, and honourable men, and inhabitants of the earth, and to all among them, without respect of persons, that know not the rocke of ages, the light, the higher power, the sure foundation, the truth, the way, the life, which is the grace that brings salvation that appeares to all men, as saith the Scripture, Titus 2.11. : With a quick loud thundring alarum, sounded in the holy mountaine, of the Lords house of holinesse that the inhabitants and great men of the earth might be awakened, and tremble, and cease from idolitry, and prepare to meet the mighty God, the everlasting light and life of men, who sheweth to man what is his secret thoughts, Amos 4.12,13. : Given forth from the hand of a freind [sic] to the whole creation, and of precious soules (of the sons and daughters of men without respect of persons) that lyeth under the bondage of corruption, a freind [sic] and servant to him that's arising to smite the earth with the rod of his mouth. / Daniel Baker.</title>
+            <author>D. B. (Daniel Baker), fl. 1650-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77549</idno>
+            <idno type="STC">Wing B481</idno>
+            <idno type="STC">ESTC R39860</idno>
+            <idno type="EEBO-CITATION">45578131</idno>
+            <idno type="OCLC">ocm 45578131</idno>
+            <idno type="VID">172092</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77549)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172092)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2614:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A certaine warning from a naked heart before the Lord, to the earthly, wise, great, and honourable men, and inhabitants of the earth, and to all among them, without respect of persons, that know not the rocke of ages, the light, the higher power, the sure foundation, the truth, the way, the life, which is the grace that brings salvation that appeares to all men, as saith the Scripture, Titus 2.11. : With a quick loud thundring alarum, sounded in the holy mountaine, of the Lords house of holinesse that the inhabitants and great men of the earth might be awakened, and tremble, and cease from idolitry, and prepare to meet the mighty God, the everlasting light and life of men, who sheweth to man what is his secret thoughts, Amos 4.12,13. : Given forth from the hand of a freind [sic] to the whole creation, and of precious soules (of the sons and daughters of men without respect of persons) that lyeth under the bondage of corruption, a freind [sic] and servant to him that's arising to smite the earth with the rod of his mouth. / Daniel Baker.</title>
+                  <author>D. B. (Daniel Baker), fl. 1650-1660.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>For M.W.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>"London, from the hole in the Poultrey Counter this 30th of the 8th month and first day of the week. 59"--P. 8.</note>
+                  <note>Imperfect: repair overlay possibly obscures text on lower portion of p. 8.</note>
+                  <note>Reproduction of the original in the Friends' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172092:1" rendition="simple:additions"/>
+            <head>
+               <hi>A</hi> Certaine <hi>WARNING</hi> from a naked Heart before the Lord, to the earthly, wiſe, great, and honourable Men, and Inhabitants of the Earth, and to all among them, without reſpect of Perſons, that know not the rocke of Ages, the light, the higher pow<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, the ſure foundation, the truth, the way, the life, which is the grace that brings ſalvation that appeares to all Men, as ſaith the Scripture, Titus <hi>2.11.</hi>
+               <lb/> With a quick loud thundring alarum ſounded in the holy Moun<g ref="char:EOLhyphen"/>taine, of the Lords Houſe of holineſſe that the Inhabitants and great Men of the Earth might be awakened, and tremble, and ceaſe from Idollitry, and prepare to meet the mighty God, the everlaſting light and life of Men, who ſheweth to Man what is his ſecret thoughts, Amos <hi>4.12, 13.</hi>
+               <lb/> Given forth from the hand of a freind to the whole Creation, and of precious ſoules [of the Sons and Daughters of Men without reſpect of Perſons] that lyeth under the bondage of corruption, a freind and ſervant to him that's ariſing to ſmite the Earth with the Rod of his mouth.</head>
+            <byline>Daniel Baker.</byline>
+            <p>HEarken and heare O yee Men that ſhall dye, and let the ſp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rit in Priſon in you, anſwer mee: whether every ſoule is not to be ſubj<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct to t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e higher power, the light, wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch is higher then ſelf, or the power of dark<g ref="char:EOLhyphen"/>neſſe: which is not to be exalted above the light of Chriſt, (the gift of God in man) wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch is the higher power, and whether your ſoules be exclud<g ref="char:EOLhyphen"/>ed, (by the good ſpirit of God) that ſpake forth theſe words from ſuch a good ſubjection, and whether the everlaſting light of Jeſus, or word, or ſpirit of truth (that reproves the world for ſin,) and is not the world in mans h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>art, ſee <hi>Eccleſ</hi> 3.) evill doing or ſpeaking, (be not the higher power,) that is of God in man, as alſo is the ſoul in man: to which the ſoul is to ſubj ct in all things.</p>
+            <p>And whether a meaſure of this power, or l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght of Chriſt, or grac, gift, or good ſpirit of God, that brings ſalvation with it, hath not appeared to, and in you: and to all men, to the end that your ſouls, even as others, without reſp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct of perſons, may become ſubj<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct to it: when received, and no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> rej<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted, ſeeing the ſcripture ſaith it hath appeared to all men: ſee, <hi>Titus</hi> 2.11.</p>
+            <p>And whether you think you can proſper, or doe any thing that may be ac<g ref="char:EOLhyphen"/>ceptable or well pleaſing to the inviſible everlaſting pure ſpirit of the L<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d God (that is oppreſt in you yet) till your firſt rebellious ſelf-exalting deceiptfull na<g ref="char:EOLhyphen"/>ture is changed: and ſo your pretious ſoules become ſubj<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct to th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ft or grace, or power: t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at's able (not only to change the firſt nature; but to ſave
+<pb n="2" facs="tcp:172092:2" rendition="simple:additions"/> to the utmoſt) of the everlaſting God in you, which in any wiſe, (behold I teſti<g ref="char:EOLhyphen"/>fie) to you never could, nor can, neither ever will conſent to, or approve of, the very appearance, or ground of any evill thought, idle, evill words, evill way or action: or any thing of ſelfe, and whether he that reſiſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th the power, doth not reſiſt the ordinance of God: and whether ſuch ſhall not receive to themſelves damnation.</p>
+            <p>And whether it may not be very good, and profitable, and very whelſome, and exceeding pretious, and wholeſome, to yeeld and ſubject to ſuch a pure good power, (the one thing needful,) which I ſay and teſtifie is in you, though yet op<g ref="char:EOLhyphen"/>preſt, (oh that it might ariſe, and ſhine forth: when ſhall it once be, O yee men that oppreſs, greive, and vex the good ſpirit of the moſt high, in your ſelves and others, that never changeth its nature, or property, though the tranſgreſſing na<g ref="char:EOLhyphen"/>ture be neer, that's to be over-tu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned, and removed, which rebels and hath gone a whoring, or departed from this one good thing needfull, days and times with<g ref="char:EOLhyphen"/>out number, &amp; this is the good ſpirit, or light, or word, or power of the Lord God, the God of the ſpirits of all fl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh, that will not always ſtrive with, or in man.</p>
+            <p>Wherefore be yee warned to ceaſe to doe evill (and to abſtain even from the appearance of it,) and ſo learne to doe well, with and by ſubjecting to th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s good, (one thing needfull) that will ſurely try and p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ove all things, (the many things) that offend (within and without you:) and this is the equall ballance of the true ſanctuary leaſt yee be devoured with, or by this ſword, which is the ſpirit or word of the everlaſting God.</p>
+            <p>And know of a truth that the children of light (of the day) that beleive in it, doe not expect the abolliſhing, throwing downe, or breaking to peices, all idolls within, and without you: and graven Images, and the diſſanulling and making void all unrighteous decrees, and Popiſh Laws, root, and branches, and all oppreſſions, wicked covenants, and oppreſſors, Popiſh Preiſts, and their ſuc<g ref="char:EOLhyphen"/>ceſſors, that are yet fed fat, with gifts, and rewards, together, with the Popes maintenance, Tithes, Piggs, Eggs, and handfulls, and ſhocks of Corn, and goods taken by force, like or rather far worſe then the ſons of Bel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all. 1 <hi>Sam.</hi> 2. Chap. 12.16. verſes, oh, for ſhame let theſe things be taken away: and let not the cry of the innocent come before any of you to be turnd aſide from judge<g ref="char:EOLhyphen"/>ment any more, leaſt the Lords fury break forth ſpeedily in the midſt of you, and deſtroy you, and confound and overturn your councells, and bring forth de<g ref="char:EOLhyphen"/>liverance ſome other way: which then ſhall be hid from your eyes to your per<g ref="char:EOLhyphen"/>petuall ſhame, and reproach, for the Lord our God is proceeding to do his mar<g ref="char:EOLhyphen"/>vailous and quick work in the earth: and who knoweth whether you may become ſerviceable in it, if ſo, it will be your honour, which is not of man, neither of this world, that lyes in wickedneſs.</p>
+            <p>Therefore, let your hands be ſtrong, when yee, as on man every particular of you bow down and ſubject to the meek, low, juſt, equall noble principle, or gift or grace of God, yet oppreſt in you: and ſo with it your hands ſhall be ſtrong &amp; proſper, in throwing down all idols, &amp; idols temples, and bells to come down after the organs, which the tranſgreſſor ſet up, when they forgot the Lord, and ſo did <hi>Iſrael</hi> ſee, <hi>Hoſ.</hi> 8, 14.</p>
+            <p>And theſe things you may know hath fed and ſtrengthned people's wicked vain
+<pb n="3" facs="tcp:172092:2" rendition="simple:additions"/> minds out of Gods fear, and from Gods witneſſe in them and ſo it feeds them, as the Tithes do the greedy covetous Prieſthood of <hi>Englands</hi> dominions, I ſay we do no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, neither cannot expect in any wiſe that theſe things can be ſwept away by you till you come down to this, and the noble, juſt, equall, pure ſpirit of the Lord God (yet oppreſt in you) by it to be guided to ſpeak and act for God which only can make you truly honorable, or break you to peeces and reward you ac<g ref="char:EOLhyphen"/>cording to your works, which if they be good then ſhall the work of the Lord (the moſt h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gh God) proſper in your hands.</p>
+            <p>Wherefore lay aſide all flattering Titles, and ſelf-exalting ſpirits, and take heed yee let not in (after yee have w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th the good ſingle ſpirit caſt out) the Prieſts and Lawyers flattering fauning viperous ſpirits, that was and is the ſame that did, and will betray and murther the juſt, wherfore do not forget but remember that yee have not been only once warned of the things that now I write to you, and come to the witneſs in you, and then with it to the Lords work within and with<g ref="char:EOLhyphen"/>out you, and ſeek the honor of God only, and away with giving and receiving ho<g ref="char:EOLhyphen"/>nor with flattering titles one to another, for ſuch are not fit veſſells to doe the Lords work in, or by in this mighty day [of battel between the two ſeeds] or ſuch are in the unbeleife, they beleive not in the light that's ariſing in his power and greatneſſe of his ſtrength who receives not honor of Man.</p>
+            <p>What have you not been heer long enough and yet alive on this ſide the grave, and have you not yet perceived the mighty inviſible eternall hand of the Lord, and his overturnings from time to time, and how he hath ſmote you as in a tem<g ref="char:EOLhyphen"/>peſt or ſtorme one againſt another as potters veſſels, and who knows but you are yet come to ſeats of government to do the Lords work with all your might and ſtrength, in his fear and dread to be ordered to do, or be inſtrumentall in the way (as I have ſaid) to do and accompliſh what the Lord hath determined ſhall be throughly affected throughout the Land, or to be ſwept all away in his fury and wrath and fiers fiery indignation, if yee faile herein, doing or accompliſhing the work of the Lord our God negligently.</p>
+            <p>Wherefore come down to the eternall true and faithfull witneſſe in every of your conſciences, and let your ſoules ſubject to this which is the higher power in you [leaſt with it yee be broken to peices and ground to powder by this ſure foundation the rock, and ſo your names periſh and ſtink and rot, and ſo become a hiſſing and by-word to the preſent and futer generations] who have and do yet pretend ſo much for the Lord God who is trying you, (O yee tall Seda s) and yee ſhall be as truly waighed in the equall ballance, even as them that went be<g ref="char:EOLhyphen"/>fore you, who all of you ſhall moſt aſſuredly give an account before the throne of the Lamb (ſlain ſince the foundation of the world) when the book of every of your conſciences ſhall be opened, and an eye then will be opened in you which the God of the world w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich his miniſters of unrighteouſneſs hath ſo long blinded and you ſhall not hide from, but read your ſelves, for a great cup is preparing for you, and yee ſhall be ſure to drink it up, even the dreggs of it, &amp; tremble &amp; be a<g ref="char:EOLhyphen"/>ſtoniſhed, and vomit and be confounded, and wiſh (together with the cov<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tous hireling Prieſts) that yee had never been born to have ſeen this age, if you quit not your ſelves like men of truth of God, in being faithfull to what the et<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rnall eye of the Lord makes manifeſt what is to be thrown down and overtu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned, and
+<pb n="4" facs="tcp:172092:3" rendition="simple:additions"/> what is to b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> noriſhed and ſet up within and without you, and the faithfull wit<g ref="char:EOLhyphen"/>neſſe in you will alſo ſhew you this, as to it yee ſubject, and this eye being kept open in you as it is in th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> honeſt hearted that hold faſt their integrity and walk in it in and over theſe Nations, it will behold its enemies afar off as well as nigh, and I ſay this eternall eye hath ſeen you, and what you from time to time have declared and yet pretend to proſecure,</p>
+            <p>Now therefore ſay I again, to the h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gher powe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (the eternall eye the light in you) b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> faithfull and I ſay that will ſhew you deceit in ſelfe with its righteouſneſs, friendſhips, honour, glory, worſhip, faith, rel gion, ſeparation that's without or out of the ſpirit, as is ſelfe and all that branches forth of it, which is all to be denied and thrown down (within and without) by the hand (the Croſſe) or higher power, to which the ſoule is to ſubj<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct, in whic<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the father is and is to be worſhiped in ſpirit and in truth as do the children of light who dwell and walk in i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and ſo ſhall you proſper, and the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and of the God of heaven will moſt aſſuredly then be with you, and this ſhall be honour enough for you, and you will concent and ſeal to my teſtimony, when as you become ſingle hearted and faithfull, and love nor your lives to the death, then you may happily feel a Crown of life, <hi>Moſes</hi> reward.</p>
+            <p>And friends break of your m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghty ſins by righteouſneſſe, if happily the poor mans counſell or words may not fall to the ground, and yet bear with me if I adviſe you to take heed <hi>(viz.)</hi> if you [who are in preſent authority, to you is my voice] ſingly and faithfully doe or act or become inſtrumentall to doe any thing as you are gu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ded, by the good, meek, noble, equall right ſpirit of God which is the higher power, and ought to be ſo, in every of you and in every man, male and female, although in its own moſt pure being it is ſo where ever it is, but in reference to this, <hi>viz</hi> when the power of darkneſſe gets over it, and oppreſſeth its ve<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tue and opperation, and ſo ſtops and hinders its working [which is long ſuffering, ſo is its nature] ſo the wicked powers of (haſty ſelfe) darkneſſe com<g ref="char:EOLhyphen"/>ming over and uſurping, oppreſſe and exerciſing Lordſhip over the juſt power, then that is got up and is falſly called (by the unwiſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) the higher power, be<g ref="char:EOLhyphen"/>cauſe its uſurped and got into the place of the juſt power that's oppreſt under it, whoſe right is not to reigne in Gods Temples where he and his dark power (that was above the light) is thrown down, and they that witneſſe this cannot honor the devill, of whom proud <hi>Haman</hi> was a figure.</p>
+            <p>I ſay again take heed of a flattering ſelfe (love) exalting ſpirits, and this is to be caſt out from among you, and I ſay if any of you ſing<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y do any thing of the Lords work, look not ſo back, as formerly yee know many with you have done, but let it go ſo as if it had not been done by you, that the Lord God who only is to have a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l the glory [which he in no wiſe will give to another or to ſelfe] may have all the glory, and be ſtrong and go on, and be a terror to all ſlothfull un<g ref="char:EOLhyphen"/>profitable ſervants (that have gone before you) and to all Idols Idolaters falſe worſhips and to every evill doer (thats hurtfull and deſtructive to the Creation) and a praiſe to every well doer whoſe conſciences the light even the light of the Lord Jeſus exerciſed, and this ſame gift or grace of God or light in you, as to it you ſubject will faithfully ſhew you who ſuch are, for with no other eye but this (by which they are guided) can they be ſeen, and the Lord in the midſt of his
+<pb n="5" facs="tcp:172092:3" rendition="simple:additions"/> Jewells, hath ſaid I will guid them with mine eye, ſo ſaith the ſcripture, and this eye the higher power g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>veth to the faithfull (the willing and obedient) a true diſcerning between the precious and the vile within and without, bleſſed are and ſhall they be that do and ſhall witneſſe ſuch a t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue ſeparation.</p>
+            <p>And friends, it will redown more to your honor, and will become more no<g ref="char:EOLhyphen"/>ble, then [that which ſcorners and fools count honor and nobility] to ride upon pranſing fatted horſes, a figure of them that forget the Lord and his work, or <hi>Pharaoh</hi> and his hoſt that was and is to be overturned and ſwallowed up (be<g ref="char:EOLhyphen"/>cauſe of the oppreſſion of the poore ſuffering ſeed) I ſay a figure of them who as fatted horſes are fatted for the day of ſlaughter the horſes and their riders, the Armor (the gorgeous apparell) and Chariots in wicked vain glory, pranſing and glittering proudly, trampling through the ſtreets of the wicked Citty filled with hipocryſy and deceit and unfaithfullneſs, and ſo to be laught at by ſcorners, wicked men and fools, even thoſe yee count your enemies, and ſo admired by fools, and this I am certa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n is not the honor that comes from the Lord of hoſts, and the Lords wrath and vengance will meet with and overtake you and all that go on in this way greedily ſatisfying their ungodly luſts, and this with ſomewhat elſe from my hand is and may be a ſure and certain warn<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng to you O yee Mountains before honor is humility in the light of the holy Citty, and the Kings of the earth do bring their glory and honor into it, <hi>Rev.</hi> 21 2<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, 24.</p>
+            <p>The time is come and comming that all the Sons and Daughters of fallen <hi>A<g ref="char:EOLhyphen"/>dam</hi> is to be turned to the light (from the darkneſſe) to Gods ſpirit within them, from which they have erred thats given even to the rebellious to inſtruct them, then of neceſſity they muſt be turned to that from which they have erred which they are to believe in, in which they are to worſhip the father in truth and in ſpi<g ref="char:EOLhyphen"/>rit, and away with all falſe worſhip and idols and hipocriſy, and ſpeak every man the truth from the heart to his neighbour, and c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me to know your rebellious na<g ref="char:EOLhyphen"/>ture changed, that yee may become juſt men of truth, meek and mercifull, f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aring God and hating covetouſneſſe and every evill way, word and action where ever it appeares or is brought forth.</p>
+            <p>And down with all curſed abominations, thats acted in and through the open ſtreets of this great wicked Citty <hi>(London)</hi> and all other Cittyes and Market-Townes in and throughout this Nation, and her Dominions by the curſed power of darkneſſe.</p>
+            <p>The ſhews, the Lord Mayors ſhews (ſo called) and ſuch like crying abomina<g ref="char:EOLhyphen"/>tions as is acted in Cittyes, Fairs, Towns, and Markets, in and throughout <hi>Eng<g ref="char:EOLhyphen"/>lands</hi> Dominions, and behold I tell yee, that the Lord even the everlaſting God abhors theſe things (and the power by which they are acted) which feeds the light, vain, rebellious, defiled, wicked minds of people both of young and old, and the Lords vengance is pouring forth upon the heads of the Prieſthood of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> for lewdneſſe (as in the days of old) is gone and go<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th out from th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m into all the earth.</p>
+            <p>Oh what a crying open ſhame is't for ſuch who are called Magiſtrates, which ſhould be juſt men of truth, a terror to every evill doer, and for them to give up their ſtrength and means and precious time to uphold, exalt and keep up in their courſe and time theſe hainous and moſt abominable, crying, horrible, wicked abo<g ref="char:EOLhyphen"/>minations
+<pb n="6" facs="tcp:172092:4" rendition="simple:additions"/> ſtuft with pride hipocriſy and vain glory by which the creatures are de<g ref="char:EOLhyphen"/>voured and conſumed upon the ungodly luſts (that war againſt your ſouls) for which end they were not created, and the whole creation is burthened and groans under all this filth.</p>
+            <p>And the terrible dreadfull everlaſting God will plead with vengance and fury poured forth in his fiers wrath becauſe of theſe things, (and many of your dilli<g ref="char:EOLhyphen"/>cate beds of eaſe will be a place of torment when the skilfull phyſicians ſhall be of no vallue) and yee would not receive warning nor inſtruction of life, not<g ref="char:EOLhyphen"/>withſtanding the Lord God the powerfull God ſent his ſervants and faithfull meſſengers to cry aloud the ſound, and ſignes hereof from time to time, hath been heard and ſeen in and through the ſtreets, and entred into the ſecret cham<g ref="char:EOLhyphen"/>bers of your immagary, and ſo you have made light of the viſitation of the moſt high, and rather chuſe the ways, practiſes and cuſtomes of the heathen, to which end a petition from the wiſe men of <hi>London</hi> to the late Parliament (whom the hand of the Lord overturned and ſhattered to pieces) that their hea<g ref="char:EOLhyphen"/>theniſh ancient cuſtoms might be continued, or kept up.</p>
+            <p>Wherefore O <hi>London</hi> this is the cry that is to paſſe through the ſtreets of and in thy lewd light vain filthy polluted inhabitants of the Land, behold a ſwo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, a ſword, a glittering ſword, a bright ſharp ſword, its drawn, its furbuſhed that it m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght glitter, pierce and be bathed into the bowels of the unſtable double-minded hipocrites and ſcornfull, much fleſh moſt aſſuredly by it with fire ſhall be devoured as in the ancient days, for behold a mighty &amp; ſtrong hand is lifted up with this bright ſharp ſword, which will ſlay and ſpare neither on the right hand nor on the left, till the fiery z<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al of the eternall God, hath performed what in his heart he hath determined.</p>
+            <p>Wherefore wo, wo, wo to the earth with her inhabitants, horror and amaze<g ref="char:EOLhyphen"/>ment, aſtoniſhment, terrors, with deſtruction upon deſtruction is comming over the heads of the prieſthood of <hi>England,</hi> the Lord God with his dreadfull hand will make you a fierce terror to your ſelves, O ye greedy devouring wolves that have made the herritage of the moſt high your pray, but behold the hammer is put into the hand that will ſmite and break and ſhatter the rocks to peices, and race the h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gh mountains, ſo as there ſhall be none to hide or cover you, O yee brutiſh paſtors, and ravennous beaſts of the Forreſt where the bryars and thorns are ſo plentifully brought forth, ſtrong and terrible is the everlaſting powerful God the holy one of Iſrael, the eternall light and life of the houſe of <hi>Jacob</hi> that will by his hand in his choſen perform theſe things.</p>
+            <p>Wherefore tremble yee Mountains, and ſhake terribly yee lofty Hills, turn aſide yee ſtrong Oakes, get ye hence into darkneſſe ye devouring Wolviſh un<g ref="char:EOLhyphen"/>profitable Servants, O ye Prieſts and greivous oppreſſing Lawyers of <hi>England,</hi> and bow down O ye heads, gather together ye fatted Bulls and Haifers, and come up to the Battell ye pranſing fatted Horſes with your haughty, proud and ſcornfull R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ders, for a loud, quick and terrible Alarum is ſounded in the holy Mountain of the everlaſting holy hill of Zion, a fire, a conſuming fire ſhall be kindled in the bowels of the Earth, which will ſcortch w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th burning heat all hypocrites unſtable double-minded workers of iniquity, tog<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther with all chil<g ref="char:EOLhyphen"/>dren of erroganſy and pride the ſeed of falſhood of the whore, that well favored
+<pb n="7" facs="tcp:172092:4" rendition="simple:additions"/> harlot with her brats, the uncleane unprofitable talkers, <hi>Babylons</hi> Merchants, and they ſhall know with anguiſh and perplex<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty of heart and minds which are de<g ref="char:EOLhyphen"/>filed, that the everlaſting light of <hi>Iſraels</hi> life is a riſing in the greatneſſe of his ſtrength (as in the days of o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d) to ſta n the pride of all glory, and bring into con<g ref="char:EOLhyphen"/>tempt all the honorable of the earth, and to bow down the haughty under the priſoners of hope, for a great &amp; large ſlaughter ſhall be throughout the land of darkneſſe where the unrighteous decrees and laws have been founded, built up, brought forth and executed upon the innocent, yee a grea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> affuſion of blood, fire, vapor and ſmoke ſhall increaſe up in the dark habitation of cruelty, howling and great wailing ſhall be on every hand, in all ſtreets, the ſtrong pranſing fatted horſes ſhall wax faint (with wallowing with their riders) and fall in the great af<g ref="char:EOLhyphen"/>fuſion of blood in the night of darkneſs where there ſhall be no light but an horrible dreadful fierce dark irreſiſtable tempeſt, and furious and violent ſtorms, in ſo much that the gallant ſhips ſhall not be able with all their force and tack<g ref="char:EOLhyphen"/>lin, ſtrong and skilfull Marriners to incounter, who ſhall not in any wiſe hide their heads, for feare and dread and horror and amazement with aſtoniſhment of heart ſhall ſuddenly ſurprize them, even at the fi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt appearance of the dark thick clouds of this horrible and mighty temp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt at which mens hearts ſhall fail on every hand, but the Lambes in the lowe vallyes ſhall be at reſt hid.</p>
+            <p>Terrible thunders from the everlaſting powerfull God will be thundred forth with bright and quick fiery lightnings from the higheſt heavens which will rent, break to pieces, teare and ſplit the ragged Rocks and ſturdy Oaks, and race the lofty Mountains, ſo that no hiding places ſhall be found to hide the fruitleſs trees Bryars and Thorns and deceitfull rotten weather-beaten veſſels of diſhonor that hath long been trading with their deceitfull Merchandiſe from Sea to S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a, even from one proud Sea to another, notwithſtanding many have ſuffered ſhipwrack, and been overwhelmed and ſwallowed up of the mighty proud mercileſſe waves of the troubled Sea that cannot reſt and the eternall eye of the Lord the ever<g ref="char:EOLhyphen"/>laſting light of life hath ſeen theſe things, and with his pure breath of life are they ſpoken, and with his everlaſting and ſtrotched out hand will he accompliſh and perform what is in his heart, ſo ſhall it be.</p>
+            <closer>
+               <signed>Daniel Baker.</signed>
+
+            </closer>
+            <postscript>
+               <p>Two of the originall Copyes of this was delivered, the one into <hi>John Ireten's</hi> hand late Mayor, and another to the preſent Mayor that evening before the heatheniſh idolaters with their idolatry, and curſed abominations from the power of darkneſſe which was too highly exalted and upheld and acted by the great Men of the earth; oh fooliſh people when will you be wiſe, how long will you thus tempt the eternall God.</p>
+               <closer>
+                  <dateline>Newgate <date>this 26 of the 8th month 59</date>
+                  </dateline>
+               </closer>
+            </postscript>
+            <postscript>
+               <p>This is chiefly intended for thoſe in preſent authority of the chiefeſt ſeats of <hi>England,</hi> and for Mayors and Aldermen and Cittizens of London, and all the earthly Rulers in &amp; throughout the Nations to read themſelves &amp; be aſhamed, and to lay aſide their heatheniſh idollatrous cuſtoms, and to learn the fear of the Lord which is to depart from evill, and not hate and perſecute ſuch that ſo fear the Lord (the living God) and with his ſpirit reprove ſin in the gate, and therefore are become a pray (as in former dayes) to thoſe that rebell againſt the light, and turn aſide the needy from judgement.</p>
+               <pb n="8" facs="tcp:172092:5" rendition="simple:additions"/>
+               <p>The Lord God of wiſdome whom I ſerve in and with my ſpirit of truth knoweth and is my witneſſe that of his pure ſpirit was I moved not only to write to the 2 Mayors of the Citty of <hi>London,</hi> the next days work (being the 29th of the 8th month) to ſtop them of their folly and vanity, but in no wiſe would they receive warning, to the vexing and oppreſſing of the moſt pure ſpirit of God) manifeſted, and many ſhall feel the weight of his hand that can ſpan the heavens, and fathom over, and comprehend the heighth and depth of darkneſs, I ſay, I alſo was moved to go, and bear a teſtimony for the Lord at the Mayors gate to the face of many of the Aldermen (who ſhould be more wiſe) the words which I ſpeak as the Lord moved, were theſe at ſeverall times, as the horſes and their riders entred within the Mayors gate, where I ſtood ſaying.</p>
+               <p>The Lord God will ſtain the pride and glory of all fleſh, the Lord God will ſtain the pride of all glory as in the days of old, the Lord will ſmite the great men of the earth with aſtoniſhment of heart, who forget juſtice and judgement. And the Lord God hath a controverſy with all that forget the Lo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d &amp; his work.</p>
+               <p>The Lord will be avenged on the great men of the earth, that deſtroy and de<g ref="char:EOLhyphen"/>vour the creatures, and the Creation upon their ungodly luſts, and forget to do juſtice and judgment.</p>
+               <p>For which ſayings I was buffetted and abuſed at the Mayors gate by the bru<g ref="char:EOLhyphen"/>tiſh people, and violently dragged and carryed away by Porters, and thrown into the Poultery Counter (in the inner priſon called the hole) without Mittimus, throw h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m in (ſaid the Mayors officer or Ma<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhall, and let him lye like a Rogue, and he was numbered with tranſgreſſors, and he made interceſſion for the tranſ<g ref="char:EOLhyphen"/>greſſors, loe he was taken from priſon, and from judgment, and who ſhall de<g ref="char:EOLhyphen"/>clare his generation, <hi>Iſa.</hi> 53.8.</p>
+               <closer>
+                  <signed>D. B.</signed>
+                  <dateline>
+                     <hi>London,</hi> from the hole in the Poultery Counter <date>this 30th of the 8<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h mon<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd firſt day of the week. 59.</date>
+                  </dateline>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
